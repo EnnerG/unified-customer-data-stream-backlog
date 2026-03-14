@@ -1,7 +1,3 @@
-# unified-customer-data-stream-backlog
-
-A concise, prioritized backlog for a unified customer data stream. Demonstrates agile delivery, user story refinement, and data product requirements.
-
 # Unified Customer Data Stream — Mini Product Backlog
 
 This project demonstrates a concise, product‑owner–ready backlog for a unified customer data stream. It highlights skills in requirements gathering, prioritization, agile delivery, and data product thinking.
